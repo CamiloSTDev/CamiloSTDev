@@ -22,7 +22,7 @@ Soy un **Desarrollador Junior** con experiencia en servidores, bases de datos y 
 
 ### 📊 **Estadísticas de GitHub**
 ![Camilo's GitHub stats](https://github-readme-stats.vercel.app/api?username=CamiloSTDev&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CamiloSTDev&layout=compact&theme=tokyonight)  
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CamiloSTDev&layout=compact&theme=tokyonight)  -->
 
 ---
 
