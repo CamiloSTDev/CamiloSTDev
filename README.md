@@ -11,7 +11,8 @@ Soy un **Desarrollador Junior** con experiencia en servidores, bases de datos y 
 ✅ **Frontend**: React, HTML, CSS  
 ✅ **Otros**: Python  
 ✅ **Servidores**: Linux (AlmaLinux), Hosting con **cPanel y WHM**
-
+✅ **Desarrollo de APIs**: RESTful APIs  
+✅ **Control de versiones**: Git y GitHub  
 ---
 
 ### 🏆 **Experiencia destacada**
