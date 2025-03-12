@@ -4,7 +4,7 @@
 Soy un **Desarrollador Junior** con experiencia en servidores, bases de datos y optimización de sistemas. Me especializo en el desarrollo backend, siempre buscando mejorar el rendimiento y la eficiencia de las aplicaciones. Actualmente, tengo un técnico en desarrollo y programación de software.  
 
 ---
-l
+
 ### 🧑‍💻 **Tecnologías que manejo**
 ✅ **Backend**: C# con .NET y Entity Framework, Laravel, NodeJS  
 ✅ **Bases de datos**: SQL Server, MySQL, MariaDB  
