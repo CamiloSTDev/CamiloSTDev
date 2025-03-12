@@ -6,7 +6,7 @@ Soy un **Desarrollador Junior** con experiencia en servidores, bases de datos y 
 ---
 
 ### 🧑‍💻 **Tecnologías que manejo**
-✅ **Backend**: C# con .NET y Entity Framework, Laravel  
+✅ **Backend**: C# con .NET y Entity Framework, Laravel, NodeJS  
 ✅ **Bases de datos**: SQL Server, MySQL, MariaDB  
 ✅ **Frontend**: React  
 ✅ **Otros**: Python  
