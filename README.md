@@ -30,7 +30,7 @@ Soy un **Desarrollador Junior** con experiencia en servidores, bases de datos y 
 ---
 
 ### 🌍 **Conéctate conmigo**
-📌 **GitHub:** [@CamiloSTDev](https://github.com/CamiloSTDev)  
+📌 **correo:** *camitotena@gmail.com* 
 📌 **LinkedIn:** [@Camilo Totena](www.linkedin.com/in/camilo-totena-964b93311)
 
 🚀 *Siempre aprendiendo y construyendo soluciones eficientes con código.*
