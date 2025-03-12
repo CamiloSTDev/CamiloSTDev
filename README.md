@@ -4,11 +4,11 @@
 Soy un **Desarrollador Junior** con experiencia en servidores, bases de datos y optimización de sistemas. Me especializo en el desarrollo backend, siempre buscando mejorar el rendimiento y la eficiencia de las aplicaciones. Actualmente, tengo un técnico en desarrollo y programación de software.  
 
 ---
-
+l
 ### 🧑‍💻 **Tecnologías que manejo**
 ✅ **Backend**: C# con .NET y Entity Framework, Laravel, NodeJS  
 ✅ **Bases de datos**: SQL Server, MySQL, MariaDB  
-✅ **Frontend**: React  
+✅ **Frontend**: React, HTML, CSS  
 ✅ **Otros**: Python  
 ✅ **Servidores**: Linux (AlmaLinux), Hosting con **cPanel y WHM**
 
@@ -17,6 +17,7 @@ Soy un **Desarrollador Junior** con experiencia en servidores, bases de datos y 
 ### 🏆 **Experiencia destacada**
 🔹 Desarrollo, optimización e implementación de la **intranet de Meltec Comunicaciones S.A.**  
 🔹 Integración de APIs como **Google Drive** y **LMS de Moodle** para mejorar la productividad  
+   [Repositorio GitHub Intranet](https://github.com/JohanFR11/Proyecto_Intermeltece.git)
 
 ---
 
