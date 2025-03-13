@@ -17,7 +17,7 @@ Soy un **Desarrollador Junior** con experiencia en servidores, bases de datos y 
 ---
 
 ### 🏆 **Experiencia destacada**
-🔹 Desarrollo, optimización e implementación de la **intranet de Meltec Comunicaciones S.A.**  
+🔹 Desarrollo, optimización e implementación de la **intranet de Meltec Comunicaciones S.A.** con tecnologias como PHP/laravel y React con NodeJS ademas de usar TailwindCSS para el estilo
 🔹 Integración de APIs como **Google Drive** y **LMS de Moodle** para mejorar la productividad  
    [Repositorio GitHub Intranet](https://github.com/JohanFR11/Proyecto_Intermeltece.git)
 
