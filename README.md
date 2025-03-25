@@ -1,5 +1,5 @@
 ### 🚀 **Hola, soy Camilo!** (`@CamiloSTDev`)
-👨‍💻 **Desarrollador Fullstack con enfoque en Backend** | 🛠️ **Apasionado por la automatización de procesos**  
+👨‍💻 **Desarrollador Backend** | 🛠️ **Apasionado por la automatización de procesos**  
 
 Soy un **Desarrollador Junior** con experiencia en servidores, bases de datos y optimización de sistemas. Me especializo en el desarrollo backend, siempre buscando mejorar el rendimiento y la eficiencia de las aplicaciones. Actualmente, tengo un técnico en desarrollo y programación de software.  
 
