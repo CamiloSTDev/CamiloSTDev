@@ -1,4 +1,4 @@
-### 🚀 **Hi, I'm Camilo!** (`@CamiloSTDev`)  
+## 🚀 **Hi, I'm Camilo!** (`@CamiloSTDev`)  
 👨‍💻 **Backend Developer** | 🛠️ **Passionate about process automation**
 
 I’m a **Junior Developer** with experience in servers, databases, and system optimization. I specialize in backend development, always aiming to improve the performance and efficiency of applications. I currently hold a technical degree in software development and programming.
@@ -16,7 +16,7 @@ I’m a **Junior Developer** with experience in servers, databases, and system o
 
 ---
 
-### 🏆 **Highlighted Experience**
+# 🏆 **Highlighted Experience**
 🔹 Development, optimization, and implementation of the **Meltec Comunicaciones S.A. intranet** using technologies such as PHP/Laravel and React with NodeJS, as well as TailwindCSS for styling  
 
 🔹 API integrations like **Google Drive** and **Moodle LMS** to enhance productivity  
@@ -53,14 +53,14 @@ I developed a modularized solution for an ecommerce system, applying **Clean Arc
 
 ---
 
-### 🚀 **Hola, soy Camilo!** (`@CamiloSTDev`)
+## 🚀 **Hola, soy Camilo!** (`@CamiloSTDev`)
 👨‍💻 **Desarrollador Backend** | 🛠️ **Apasionado por la automatización de procesos**  
 
 Soy un **Desarrollador Junior** con experiencia en servidores, bases de datos y optimización de sistemas. Me especializo en el desarrollo backend, siempre buscando mejorar el rendimiento y la eficiencia de las aplicaciones. Actualmente, tengo un técnico en desarrollo y programación de software.  
 
 ---
 
-### 🧑‍💻 **Tecnologías que manejo**
+## 🧑‍💻 **Tecnologías que manejo**
 ✅ **Backend**: C# con .NET y Entity Framework, Laravel, NodeJS  
 ✅ **Bases de datos**:  SQL Server, MySQL  
 ✅ **Frontend**: React, HTML, CSS  
@@ -71,7 +71,7 @@ Soy un **Desarrollador Junior** con experiencia en servidores, bases de datos y 
 
 ---
 
-### 🏆 **Experiencia destacada**
+# 🏆 **Experiencia destacada**
 🔹 Desarrollo, optimización e implementación de la **intranet de Meltec Comunicaciones S.A.** con tecnologias como PHP/laravel y React con NodeJS ademas de usar TailwindCSS para el estilo
 
 
