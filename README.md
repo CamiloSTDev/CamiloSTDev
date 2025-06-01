@@ -22,6 +22,17 @@ I’m a **Junior Developer** with experience in servers, databases, and system o
 🔹 API integrations like **Google Drive** and **Moodle LMS** to enhance productivity  
    [GitHub Repository – Intranet](https://github.com/JohanFR11/Proyecto_Intermeltece.git)
 
+
+## Ecommerce System – Clean Architecture Solution
+
+I developed a modularized solution for an ecommerce system, applying **Clean Architecture** and **SOLID principles**. I implemented **authentication**, **product management**, and **decoupled business logic** through services and **CQRS handlers** using **MediatR**. I used **EF Core** with **Code First migrations** and **generic repositories**. I also configured environment variables using **DotNetEnv** and maintained a clear separation of concerns across different project layers (**API**, **Application**, **Domain**, **Infrastructure**).
+
+### Achievements:
+- ✅ Extensible and maintainable architecture with clear layer separation  
+- ✅ Reusable, decoupled services  
+- ✅ Decoupled command and query handlers  
+- ✅ Professional environment and security configuration
+
 ---
 
 ### 📊 **GitHub Stats**
@@ -64,6 +75,16 @@ Soy un **Desarrollador Junior** con experiencia en servidores, bases de datos y 
 
 🔹 Integración de APIs como **Google Drive** y **LMS de Moodle** para mejorar la productividad  
    [Repositorio GitHub Intranet](https://github.com/JohanFR11/Proyecto_Intermeltece.git)
+
+##Sistema De Ecommerce - Con Clean Architecture
+
+Desarrollé una solución modularizada para un sistema de ecommerce, aplicando Clean Architecture y principios SOLID. Implementé autenticación, gestión de productos y lógica de negocio desacoplada mediante servicios y handlers CQRS usando MediatR. Usé EF Core con migraciones Code First y repositorios genéricos. Incluí configuración de entornos con DotNetEnv y practiqué separación clara de responsabilidades en distintas capas del proyecto (API, Application, Domain, Infrastructure).
+
+**Logros:**
+- Arquitectura extensible y mantenible con separación por capas
+- Servicios desacoplados reutilizables
+- Handlers para comandos y consultas desacoplados
+- Configuración profesional de entorno y seguridad
 
 ---
 
