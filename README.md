@@ -33,6 +33,8 @@ I developed a modularized solution for an ecommerce system, applying **Clean Arc
 - ✅ Decoupled command and query handlers  
 - ✅ Professional environment and security configuration
 
+[GitHub Repository – Ecommerce Api](https://github.com/CamiloSTDev/ProyectoEcommerce)
+
 ---
 
 ### 📊 **GitHub Stats**
@@ -76,7 +78,7 @@ Soy un **Desarrollador Junior** con experiencia en servidores, bases de datos y 
 🔹 Integración de APIs como **Google Drive** y **LMS de Moodle** para mejorar la productividad  
    [Repositorio GitHub Intranet](https://github.com/JohanFR11/Proyecto_Intermeltece.git)
 
-##Sistema De Ecommerce - Con Clean Architecture
+## Sistema De Ecommerce - Con Clean Architecture
 
 Desarrollé una solución modularizada para un sistema de ecommerce, aplicando Clean Architecture y principios SOLID. Implementé autenticación, gestión de productos y lógica de negocio desacoplada mediante servicios y handlers CQRS usando MediatR. Usé EF Core con migraciones Code First y repositorios genéricos. Incluí configuración de entornos con DotNetEnv y practiqué separación clara de responsabilidades en distintas capas del proyecto (API, Application, Domain, Infrastructure).
 
@@ -85,6 +87,8 @@ Desarrollé una solución modularizada para un sistema de ecommerce, aplicando C
 - Servicios desacoplados reutilizables
 - Handlers para comandos y consultas desacoplados
 - Configuración profesional de entorno y seguridad
+
+[Repositorio de GitHub - Ecommerce Api](https://github.com/CamiloSTDev/ProyectoEcommerce)
 
 ---
 
